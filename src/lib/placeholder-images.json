@@ -1,0 +1,155 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "tourist-1",
+      "description": "Portrait of Aarav Sharma",
+      "imageUrl": "https://picsum.photos/seed/101/100/100",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "tourist-2",
+      "description": "Portrait of Saanvi Gupta",
+      "imageUrl": "https://picsum.photos/seed/102/100/100",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "tourist-3",
+      "description": "Portrait of Vivaan Singh",
+      "imageUrl": "https://picsum.photos/seed/103/100/100",
+      "imageHint": "young man"
+    },
+    {
+      "id": "tourist-4",
+      "description": "Portrait of Diya Patel",
+      "imageUrl": "https://picsum.photos/seed/104/100/100",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "tourist-5",
+      "description": "Portrait of Aditya Kumar",
+      "imageUrl": "https://picsum.photos/seed/105/100/100",
+      "imageHint": "man travel"
+    },
+    {
+      "id": "tourist-6",
+      "description": "Portrait of Ishaan Reddy",
+      "imageUrl": "https://picsum.photos/seed/106/100/100",
+      "imageHint": "man hiking"
+    },
+    {
+      "id": "tourist-7",
+      "description": "Portrait of Ananya Rao",
+      "imageUrl": "https://picsum.photos/seed/107/100/100",
+      "imageHint": "woman nature"
+    },
+    {
+      "id": "tourist-8",
+      "description": "Portrait of Rohan Joshi",
+      "imageUrl": "https://picsum.photos/seed/108/100/100",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "tourist-9",
+      "description": "Portrait of Kiara Desai",
+      "imageUrl": "https://picsum.photos/seed/109/100/100",
+      "imageHint": "woman outdoors"
+    },
+    {
+      "id": "tourist-10",
+      "description": "Portrait of Arnav Mehra",
+      "imageUrl": "https://picsum.photos/seed/110/100/100",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "tourist-11",
+      "description": "Portrait of Myra Iyer",
+      "imageUrl": "https://picsum.photos/seed/111/100/100",
+      "imageHint": "woman glasses"
+    },
+    {
+      "id": "tourist-12",
+      "description": "Portrait of Kabir Menon",
+      "imageUrl": "https://picsum.photos/seed/112/100/100",
+      "imageHint": "man serious"
+    },
+    {
+      "id": "tourist-13",
+      "description": "Portrait of Zara Begum",
+      "imageUrl": "https://picsum.photos/seed/113/100/100",
+      "imageHint": "woman traditional"
+    },
+    {
+      "id": "tourist-14",
+      "description": "Portrait of Reyansh Thakur",
+      "imageUrl": "https://picsum.photos/seed/114/100/100",
+      "imageHint": "man backpack"
+    },
+    {
+      "id": "tourist-15",
+      "description": "Portrait of John Smith",
+      "imageUrl": "https://picsum.photos/seed/115/100/100",
+      "imageHint": "man tourist"
+    },
+    {
+      "id": "tourist-16",
+      "description": "Portrait of Emily Johnson",
+      "imageUrl": "https://picsum.photos/seed/116/100/100",
+      "imageHint": "woman tourist"
+    },
+    {
+      "id": "tourist-17",
+      "description": "Portrait of Kenji Tanaka",
+      "imageUrl": "https://picsum.photos/seed/117/100/100",
+      "imageHint": "asian man"
+    },
+    {
+      "id": "tourist-18",
+      "description": "Portrait of Fatima Al-Fassi",
+      "imageUrl": "https://picsum.photos/seed/118/100/100",
+      "imageHint": "arab woman"
+    },
+    {
+      "id": "tourist-19",
+      "description": "Portrait of Chloe Dubois",
+      "imageUrl": "https://picsum.photos/seed/119/100/100",
+      "imageHint": "french woman"
+    },
+    {
+      "id": "tourist-20",
+      "description": "Portrait of David Miller",
+      "imageUrl": "https://picsum.photos/seed/120/100/100",
+      "imageHint": "caucasian man"
+    },
+    {
+      "id": "tourist-21",
+      "description": "Portrait of Ibrahim Cissé",
+      "imageUrl": "https://picsum.photos/seed/121/100/100",
+      "imageHint": "african man"
+    },
+    {
+      "id": "tourist-22",
+      "description": "Portrait of Sofia Rossi",
+      "imageUrl": "https://picsum.photos/seed/122/100/100",
+      "imageHint": "italian woman"
+    },
+    {
+      "id": "tourist-23",
+      "description": "Portrait of Liam Murphy",
+      "imageUrl": "https://picsum.photos/seed/123/100/100",
+      "imageHint": "irish man"
+    },
+    {
+      "id": "tourist-24",
+      "description": "Portrait of Isabella Costa",
+      "imageUrl": "https://picsum.photos/seed/124/100/100",
+      "imageHint": "brazilian woman"
+    },
+     {
+      "id": "user-avatar",
+      "description": "Avatar for the logged-in user",
+      "imageUrl": "https://picsum.photos/seed/user/100/100",
+      "imageHint": "officer portrait"
+    }
+  ]
+}

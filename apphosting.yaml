@@ -1,0 +1,14 @@
+# Settings to manage and configure a Firebase App Hosting backend.
+# https://firebase.google.com/docs/app-hosting/configure
+
+runConfig:
+  # Increase this value if you'd like to automatically spin up
+  # more instances in response to increased traffic.
+  maxInstances: 1
+  # Make the Google Maps API key available to the app.
+  environment:
+    - variable: NEXT_PUBLIC_GOOGLE_MAPS_API_KEY
+      value: "AIzaSyAM4Pc9xFc6pW8pVSZiZeEhtkURscEzh6Y"
+      availability:
+        - BUILD
+        - RUNTIME
